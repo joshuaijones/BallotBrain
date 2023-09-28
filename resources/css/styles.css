@@ -143,6 +143,41 @@ h1 {
     background-color: rgb(0, 87, 124);
 }
 
+.missionStatement {
+    margin: 50px 0px 20px;
+    height: 475px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    text-align: center;
+}
+
+.missionStatement h2 {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    height: 60px;
+    font-size: 30px;
+    font-family: 'Oswald';
+    font-size: 50px;
+}
+
+.missionStatement h3 {
+    height: auto;
+    margin: 0px 50px;
+    font-size: 30px;
+    font-family: 'Quattrocento';
+    line-height: 1.5;
+}
+
+.missionStatement h3 > strong {
+    font-family: 'Oswald', sans-serif;
+    display: inline-block;
+    margin: 0px;
+    letter-spacing: -2px;
+    text-transform: uppercase;
+    color: rgb(0, 155, 220);
+}
+
 .cardContainer {
     margin-top: 50px;
     width: 100%;

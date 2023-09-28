@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "c:\\Users\\joshu\\Desktop\\Jones, Joshua - ProgramPortfolio\\flexbox-buisness-site-starting\\index.html"
+            "file": "c:\\Users\\joshu\\Desktop\\Jones, Joshua - ProgramPortfolio\\BallotBrain\\index.html"
         }
     ]
 }
